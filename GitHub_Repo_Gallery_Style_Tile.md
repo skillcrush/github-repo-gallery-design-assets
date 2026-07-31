@@ -29,9 +29,8 @@ A quick-reference guide to the colors, type, and reusable UI patterns. Share thi
 | Element | Font | Size | Notes |
 | :---- | :---- | :---- | :---- |
 | h1 | Oswald, 500 | `56px` |
-| h2 | Oswald, 500 | `18px` |
-| h3 | Oswald, 500 | default h3 size |
-| Body text | Open Sans, 400 | `16px` |
+| h2 | Oswald, 500 | `20px` |
+| Body text | Open Sans, 400 | `18px` |
 | Profile section text | Open Sans | `18px` |
 
 Fonts are loaded from Google Fonts:
