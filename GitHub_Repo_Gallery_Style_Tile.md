@@ -30,8 +30,7 @@ A quick-reference guide to the colors, type, and reusable UI patterns. Share thi
 | :---- | :---- | :---- | :---- |
 | h1 | Oswald, 500 | `56px` |
 | h2 | Oswald, 500 | `20px` |
-| Body text | Open Sans, 400 | `18px` |
-| Profile section text | Open Sans | `18px` |
+| Normal text | Open Sans, 400 | `18px` |
 
 Fonts are loaded from Google Fonts:
 ```
@@ -40,9 +39,6 @@ Oswald: wght@500
 ```
 
 Icons come from Font Awesome Pro 5.10.0 (e.g. `fa-github-alt`).
-
-*Pixel values above are given as a designer would hand them off. It's on you to decide how to translate them into responsive units (px, %, em, rem) when you build.*
-
 ---
 
 ## Content Reference (Copy-Paste Placeholders)
