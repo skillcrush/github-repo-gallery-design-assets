@@ -11,7 +11,8 @@ A quick-reference guide to the colors, type, and reusable UI patterns. Share thi
 | 🟪 | Deep Purple | `#483978` | Page title banner background, profile section background, primary button fill, small accent circle in the top corner tab |
 | 🟪 | Deep Purple (hover) | `#2f2550` | "View Repo" button hover state |
 | 🟪 | Soft Lavender | `#9b8dc9` | Divider line under profile stats |
-| 🟧 | Coral | `#f7614A` | GitHub icon color, repo card border, repo card title text |
+| 🟧 | Coral | `#f7614A` | repo card border, repo card title text |
+| 🟧 | Bright Coral | `#f86d58` | GitHub icon color |
 | 🟨 | Pale Yellow | `#fbf9de` | Page background |
 | ⬜ | White | `#fff` | Card and section backgrounds, button text |
 | ⬛ | Body Text | `#333` | Default body text |
@@ -29,8 +30,8 @@ A quick-reference guide to the colors, type, and reusable UI patterns. Share thi
 | :---- | :---- | :---- | :---- |
 | h1 | Oswald, 500 | `56px` |
 | h2 | Default |
-| h3 | Oswald, 500 | `18px` |
-| Normal text | Open Sans, 400 | `18px` |
+| h3 | Oswald, 500 | `20px` |
+| Normal text | Open Sans, 400/700 | `18px` |
 
 Fonts are loaded from Google Fonts:
 ```
