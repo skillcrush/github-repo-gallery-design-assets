@@ -8,7 +8,7 @@ A quick-reference guide to the colors, type, and reusable UI patterns. Share thi
 
 | Swatch | Name | Hex | Used For |
 | :---- | :---- | :---- | :---- |
-| 🟪 | Deep Purple | `#483978` | Page title banner background, profile section background, primary button fill, small accent circle in the top corner tab |
+| 🟪 | Deep Purple | `#483978` | Page title banner background, profile section background, primary button fill, small accent circle in the top corner tab, search input, search icon |
 | 🟪 | Deep Purple (hover) | `#2f2550` | "View Repo" button hover state |
 | 🟪 | Soft Lavender | `#9b8dc9` | Divider line under profile stats |
 | 🟧 | Coral | `#f7614A` | repo card border, repo card title text |
@@ -39,7 +39,9 @@ Open Sans: wght@400;700
 Oswald: wght@500
 ```
 
-Icons come from Font Awesome Pro 5.10.0 (e.g. `fa-github-alt`).
+Icons come from Font Awesome Pro 5.10.0 ('fa-github-alt' and 'fa-search').
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+    integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
 ---
 
 ## Content Reference (Copy-Paste Placeholders)
